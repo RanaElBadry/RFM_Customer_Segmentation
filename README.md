@@ -47,6 +47,11 @@ This project performs end-to-end customer segmentation using RFM (Recency, Frequ
 - Provided marketing strategy recommendations
 
 ---
-
+## 💼 Business Impact
+This analysis helps marketing teams:
+- Improve retention strategy
+- Increase revenue from high-value segments
+- Reduce churn
+---
 ## 🚀 Author
 Rana Elbadry
