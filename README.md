@@ -1,3 +1,8 @@
+## 📈 Visualization Sample
+
+![RFM Segmentation](PowerBI_Dashboard/Dashboard.png)
+
+
 # Customer Segmentation using RFM Analysis
 
 ## 📌 Project Overview
